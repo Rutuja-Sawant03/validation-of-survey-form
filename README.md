@@ -1,1 +1,0 @@
-# validation-of-survey-form
